@@ -1,0 +1,16 @@
+﻿<Window x:Class="CanvasProjectA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CanvasProjectA"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="338.672" Width="800">
+    <Grid>
+        <Canvas x:Name="myCanvas" Width="455" Height="247" Margin="307,31,30,141" Background="#FFFFE5E5">
+            <Polyline x:Name="myPolyline">
+                
+            </Polyline>
+        </Canvas>
+    </Grid>
+</Window>
