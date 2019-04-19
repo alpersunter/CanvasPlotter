@@ -1,0 +1,15 @@
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\bin\Debug\CanvasProjectC.exe.config
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\bin\Debug\CanvasProjectC.exe
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\bin\Debug\CanvasProjectC.pdb
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\CanvasProjectC.csprojAssemblyReference.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\MainWindow.g.cs
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\App.g.cs
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\CanvasProjectC_MarkupCompile.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\CanvasProjectC_MarkupCompile.lref
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\MainWindow.baml
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\CanvasProjectC.g.resources
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\CanvasProjectC.Properties.Resources.resources
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\CanvasProjectC.csproj.GenerateResource.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\CanvasProjectC.csproj.CoreCompileInputs.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\CanvasProjectC.exe
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectC\CanvasProjectC\obj\Debug\CanvasProjectC.pdb
