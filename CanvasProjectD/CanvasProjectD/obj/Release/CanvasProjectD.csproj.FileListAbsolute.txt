@@ -1,0 +1,15 @@
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\bin\Release\CanvasProjectD.exe.config
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\bin\Release\CanvasProjectD.exe
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\bin\Release\CanvasProjectD.pdb
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\MainWindow.g.cs
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\App.g.cs
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\CanvasProjectD_MarkupCompile.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\CanvasProjectD_MarkupCompile.lref
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\MainWindow.baml
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\CanvasProjectD.g.resources
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\CanvasProjectD.Properties.Resources.resources
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\CanvasProjectD.csproj.GenerateResource.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\CanvasProjectD.csproj.CoreCompileInputs.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\CanvasProjectD.exe
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\CanvasProjectD.pdb
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasProjectD\obj\Release\CanvasProjectD.csprojAssemblyReference.cache
