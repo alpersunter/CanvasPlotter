@@ -1,0 +1,12 @@
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasPlotter\obj\Release\CanvasPlotter.csprojAssemblyReference.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasPlotter\obj\Release\CanvasPlotter.csproj.CoreCompileInputs.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasPlotter\bin\Release\CanvasPlotter.dll
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasPlotter\bin\Release\CanvasPlotter.pdb
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasPlotter\obj\Release\CanvasPlotter.dll
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectD\CanvasPlotter\obj\Release\CanvasPlotter.pdb
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\bin\Release\CanvasPlotter.dll
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\bin\Release\CanvasPlotter.pdb
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\obj\Release\CanvasPlotter.csprojAssemblyReference.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\obj\Release\CanvasPlotter.csproj.CoreCompileInputs.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\obj\Release\CanvasPlotter.dll
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\obj\Release\CanvasPlotter.pdb

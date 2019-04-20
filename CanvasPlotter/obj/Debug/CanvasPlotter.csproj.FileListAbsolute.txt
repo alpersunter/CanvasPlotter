@@ -1,0 +1,6 @@
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\bin\Debug\CanvasPlotter.dll
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\bin\Debug\CanvasPlotter.pdb
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\obj\Debug\CanvasPlotter.csprojAssemblyReference.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\obj\Debug\CanvasPlotter.csproj.CoreCompileInputs.cache
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\obj\Debug\CanvasPlotter.dll
+C:\Users\Alper SÜNTER\source\repos\CanvasProjectE\CanvasPlotter\obj\Debug\CanvasPlotter.pdb
