@@ -8,3 +8,5 @@ CanvasPlotter folder stores the full code and the dll
 CanvasProjectE is the most recent example code for this project.
 
 More info will be added soon.
+
+(Me from the future: "Damn! Look at me")
